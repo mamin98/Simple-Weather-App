@@ -1,0 +1,13 @@
+.wrapper {
+    background: linear-gradient(#6b6b6b, #5ccabc);
+    font-size: 20px;
+    padding: 5px;
+    color: rgba(11, 11, 59, 10);
+}
+
+.key {
+    border-bottom: solid 2px #fFf;
+    padding-bottom: 2px;
+    font-weight: 500;
+    color: rgba(11, 11, 59, 5);
+}
